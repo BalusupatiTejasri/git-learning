@@ -4,7 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Teja first appilication in new-feature branch</h1>
+     <h1>Teja first appilication in new-feature branch
+      <br/>
+      This is a new feature added in the new-feature branch.
+     </h1>
     </div>
   );
 }
