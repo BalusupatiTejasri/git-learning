@@ -6,7 +6,7 @@ function App() {
     <div className="App">
      <h1>Teja first appilication in new-feature branch
       <br/>
-      This is a new feature added in the new-feature branch.
+      This is a new feature added in the new-feature 
      </h1>
     </div>
   );
